@@ -1,0 +1,6 @@
+azure-functions
+requests
+azure-identity
+azure-ai-documentintelligence
+azure-storage-file-datalake
+azure-data-tables
